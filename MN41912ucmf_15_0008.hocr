@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41912ucmf_15_0008.png"; bbox 0 0 2322 3297; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 209 507 1089 852">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 209 507 1089 852">
+     <span class='ocr_line' id='line_1_1' title="bbox 209 507 1089 852; baseline 0.014 -77"><span class='ocrx_word' id='word_1_1' title='bbox 209 507 1089 852; x_wconf 78' lang='lat' dir='ltr'><strong>Herwerden‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 206 1402 1141 2193">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 206 1337 1141 2193">
+     <span class='ocr_line' id='line_1_2' title="bbox 208 1402 1141 1758; baseline 0.023 -87"><span class='ocrx_word' id='word_1_2' title='bbox 208 1402 991 1758; x_wconf 81' lang='lat' dir='ltr'>Disputatio</span> <span class='ocrx_word' id='word_1_3' title='bbox 1051 1416 1141 1692; x_wconf 92' lang='lat' dir='ltr'>d</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 206 1858 1107 2193; baseline 0.013 -66"><span class='ocrx_word' id='word_1_4' title='bbox 206 1860 277 2127; x_wconf 87' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_5' title='bbox 283 1940 747 2193; x_wconf 75' lang='lat' dir='ltr'>osuae,</span> <span class='ocrx_word' id='word_1_6' title='bbox 814 1858 1107 2139; x_wconf 80' lang='lat' dir='ltr'>sive</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1166 3297">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1166 3297">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1166 3297; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1166 3297; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 206 2755 1041 3117">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 206 2755 1041 3117">
+     <span class='ocr_line' id='line_1_5' title="bbox 206 2755 1041 3117; baseline 0.012 -85"><span class='ocrx_word' id='word_1_8' title='bbox 206 2755 1041 3117; x_wconf 76' lang='lat' dir='ltr'>Groningae,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
